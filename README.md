@@ -1,1 +1,1 @@
-# Shopping-Store-Java-Web-Application
+# Spring MVC Shopping-Store-Web-Application
